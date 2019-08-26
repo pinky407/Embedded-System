@@ -36,15 +36,12 @@ Above all have some advantages and Disadvantages. We need to select based on req
    3. Dedicated
    4. Real Time Constraint
    
-   ## Embedded System Design usage in Different Fields
+  ## Some examples of Embedded System Design usage in Different Fields
    
    1. Health Care
      ![Health Care](http://archive.rtcmagazine.com/files/images/2816/rtc1106td_ibm1_large.jpg)
      
-   2. Automative
-     ![Automative](Automotive.png)
-     
-   3. Cyber Technolgy   
+   2. Cyber Technolgy   
     ![Cyber](csm_HighLevelCoDesignView_1e761d243b.jpg)
    
    
