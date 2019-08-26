@@ -44,7 +44,6 @@ Above all have some advantages and Disadvantages. We need to select based on req
      ![Automative](http://archive.rtcmagazine.com/files/images/2816/rtc1106td_ibm1_large.jpg)
      
    3. Cyber Technolgy
-   
     ![Cyber](https://www.rcs.ei.tum.de/fileadmin/_processed_/csm_HighLevelCoDesignView_1e761d243b.jpg)
    
    
