@@ -50,10 +50,10 @@ Above all have some advantages and Disadvantages. We need to select based on req
    
    Reference Links
    
-   [Real time examples of Embedded System](https://www.theengineeringprojects.com/2016/11/examples-of-embedded-systems.html)
-   [Embedded System Overview](https://www.tutorialspoint.com/embedded_systems/es_overview.htm)
-   [Types of Embedded Systems](http://www.itrelease.com/2018/07/examples-and-types-of-embedded-systems/)
-   [Embedded System Software](https://www.coursera.org/learn/introduction-embedded-systems)
+   1. [Real time examples of Embedded System](https://www.theengineeringprojects.com/2016/11/examples-of-embedded-systems.html)
+   2. [Embedded System Overview](https://www.tutorialspoint.com/embedded_systems/es_overview.htm)
+   3. [Types of Embedded Systems](http://www.itrelease.com/2018/07/examples-and-types-of-embedded-systems/)
+   4. [Embedded System Software](https://www.coursera.org/learn/introduction-embedded-systems)
    
       
      
